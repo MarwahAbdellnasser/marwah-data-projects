@@ -1,45 +1,50 @@
-# marwah-data-projects
-collection of my data analysis and data entry projects
+A collection of my data analysis and data entry projects
 
-# 👋 Hi, I'm Marwah Abdullnasser
-### Data Analyst & Data Entry Specialist
+# 👋 Hi, I'm Marwah Abdullnasser  
+### Data Analyst | Excel Dashboard Designer | Data Entry Specialist  
 
-I help businesses **organize, clean, and analyze data** to make better decisions.  
-My work focuses on **data entry, Excel dashboards, and sales data analysis** with accuracy and efficiency.
+Turning raw data into clear, actionable insights — through clean reports, interactive dashboards, and data-driven storytelling.  
 
 ---
 
-## 🧰 Skills & Tools
-
-- **Data Analysis:** Excel (Advanced Formulas, Pivot Tables, Interactive Dashboards)  
-- **Data Entry & Cleaning:** Excel, Google Sheets, Data Validation  
-- **Reporting & Visualization:** Charts, KPIs, Summary Reports  
+## 💡 About Me  
+I’m a passionate **Data Analyst** who loves transforming numbers into visual insights that help businesses make smarter decisions.  
+My work combines **data accuracy**, **visual clarity**, and **business understanding** — with a special focus on **Excel dashboards** and **sales data analysis**.  
 
 ---
 
-## 📊 My Projects
+## 🧰 Skills & Tools  
 
-| Project | Description | Tools | Screenshot |
-|---------|-------------|-------|------------|
-| **Interactive Sales Dashboard** | Analyzed sales data and created an interactive Excel dashboard summarizing KPIs. | Excel (Pivot Tables, Charts, Formulas) | ![Dashboard](screenshots/sales-dashboard.png) |
-| **Data Entry & Cleaning Projects** | Extracted and organized data from multiple sources accurately; standardized formats for reporting. | Excel, Google Sheets | ![Data Cleaning](screenshots/data-cleaning.png) |
-| **Sales & Customer Data Analysis** | Collected and analyzed sales/customer datasets, generating concise insights reports. | Excel | ![Sales Analysis](screenshots/sales-analysis.png) |
-
-> ⚠️ **Tip:** Upload your actual screenshots in a `screenshots` folder inside your repository and replace the image file names above with your files.
+- **Data Analysis & Visualization:** Excel (Advanced Formulas, Pivot Tables, Interactive Dashboards), Tableau  
+- **Data Cleaning & Entry:** Excel, Google Sheets  
+- **Reporting:** KPI summaries, trend analysis, comparative charts  
+- **Other:** Basic Python (Pandas, Matplotlib), PDF report generation  
 
 ---
 
-## 🏆 Certificates
+## 📊 Featured Projects  
 
-- Excel for Business – Intermediate (Macquarie University)  
-- Google Data Analytics Fundamentals (Coursera)
+| Project | Description | Tools | Preview |
+|----------|-------------|--------|----------|
+| **Clinics Doctors Network Dashboard** | Interactive Excel dashboard analyzing doctors and clinics data. Shows specialty distribution and clinic count by governorate using pie and bar charts. | Excel (Pivot Tables, Pie & Bar Charts, Slicers) | ![Clinics Dashboard](https://github.com/MarwahAbdellnasser/marwah-data-projects/blob/main/Screenshot/kpis_view.png) |
+| **EduFlex Customer Churn Analysis — Business Insights Report** | Business-focused churn analysis for EduFlex EdTech platform. Identified key factors behind customer attrition using synthetic data (2,500 records) and predictive models. Provided retention strategy recommendations. | Python (Pandas, Matplotlib, Seaborn), Excel | ![EduFlex Analysis](https://github.com/MarwahAbdellnasser/marwah-data-projects/blob/main/Screenshot/plot1.png) |
+| **InsightMart Sales Dashboard** | 2024 online sales performance dashboard for an eCommerce store. Highlights monthly trends, top products, regional comparisons, and channel performance (Website, App, Social Media). | Excel (Pivot Tables, Charts, Slicers), Tableau | ![InsightMart Dashboard](https://github.com/MarwahAbdellnasser/marwah-data-projects/blob/main/Screenshot/dashboard_main.png) |
+
+> 🖼️ *Each dashboard visual is uploaded in the repository’s `/Screenshot` folder.*
 
 ---
 
-## 📬 Contact Me
-📧 marwah.abdullnasser@email.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/)  
+## 🏆 Certifications  
+- **Excel for Business – Intermediate** (Macquarie University)  
+- **Google Data Analytics Fundamentals** (Coursera)
 
 ---
 
-*I turn raw data into clear insights and accurate reports.*
+## 💬 Connect With Me  
+📧 **Email:** marwah.abdullnasser@email.com  
+🔗 **LinkedIn:** [linkedin.com/in/marwah-abdullnasser](https://www.linkedin.com/)  
+💻 **GitHub Portfolio:** [github.com/MarwahAbdellnasser](https://github.com/MarwahAbdellnasser)  
+
+---
+
+### ✨ “Data is powerful only when it tells a story — I help you tell it clearly.”
