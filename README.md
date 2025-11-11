@@ -26,7 +26,7 @@ My work combines **data accuracy**, **visual clarity**, and **business understan
 
 | Project | Description | Tools | Preview |
 |----------|-------------|--------|----------|
-| **Clinics Doctors Network Dashboard** | Interactive Excel dashboard analyzing doctors and clinics data. Shows specialty distribution and clinic count by governorate using pie and bar charts. | Excel (Pivot Tables, Pie & Bar Charts, Slicers) | ![Clinics Dashboard](https://github.com/MarwahAbdellnasser/marwah-data-projects/blob/main/screenshots/kpis_view.png) |
+| **Clinics Doctors Network Dashboard** | Interactive Excel dashboard analyzing doctors and clinics data. Shows specialty distribution and clinic count by governorate using pie and bar charts. | Excel (Pivot Tables, Pie & Bar Charts, Slicers) | ![Clinics Dashboard](https://github.com/MarwahAbdellnasser/marwah-data-projects/blob/main/kpis_view.png) |
 | **EduFlex Customer Churn Analysis — Business Insights Report** | Business-focused churn analysis for EduFlex EdTech platform. Identified key factors behind customer attrition using synthetic data (2,500 records) and predictive models. Provided retention strategy recommendations. | Python (Pandas, Matplotlib, Seaborn), Excel | ![EduFlex Analysis](https://github.com/MarwahAbdellnasser/marwah-data-projects/blob/main/screenshots/plot1.png) |
 | **InsightMart Sales Dashboard** | 2024 online sales performance dashboard for an eCommerce store. Highlights monthly trends, top products, regional comparisons, and channel performance (Website, App, Social Media). | Excel (Pivot Tables, Charts, Slicers), Tableau | ![InsightMart Dashboard](https://github.com/MarwahAbdellnasser/marwah-data-projects/blob/main/screenshots/dashboard_main.png) |
 
