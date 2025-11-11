@@ -1,0 +1,289 @@
+Date,Month_Name,Region,Product_Category,Order_Channel,Units_Sold,Revenue ($),Profit ($),Customers,Returns,Avg_Price ($),Trend_Index
+2024-01-01,January,Cairo,Electronics,Website,128,15904.32,3115.88,34,1,124.77,1.0
+2024-01-01,January,Cairo,Fashion,Website,85,4407.85,931.08,22,1,50.69,1.0
+2024-01-01,January,Cairo,Home,Social Media Ads,53,4074.07,543.81,13,0,81.55,1.0
+2024-01-01,January,Cairo,Beauty,Social Media Ads,42,932.31,107.56,11,1,23.18,1.0
+2024-01-01,January,Cairo,Sports,Website,37,2130.5,498.17,9,0,57.39,1.0
+2024-01-01,January,Cairo,Groceries,Website,22,331.62,62.53,6,0,14.28,1.0
+2024-01-01,January,Riyadh,Electronics,Website,127,14584.3,1523.62,38,1,122.01,1.05
+2024-01-01,January,Riyadh,Fashion,Social Media Ads,76,3357.48,452.92,20,1,44.58,1.05
+2024-01-01,January,Riyadh,Home,Website,48,3736.91,388.57,12,0,82.2,1.05
+2024-01-01,January,Riyadh,Beauty,Social Media Ads,51,1418.62,294.23,12,0,27.06,1.05
+2024-01-01,January,Riyadh,Sports,Website,34,2155.35,391.72,8,0,61.59,1.05
+2024-01-01,January,Riyadh,Groceries,Mobile App,39,648.58,108.56,11,0,15.98,1.05
+2024-01-01,January,Jeddah,Electronics,Website,142,18341.72,4061.12,28,2,123.47,1.1
+2024-01-01,January,Jeddah,Fashion,Website,77,3457.57,739.3,21,1,45.31,1.1
+2024-01-01,January,Jeddah,Home,Mobile App,53,4667.66,955.57,13,0,89.46,1.1
+2024-01-01,January,Jeddah,Beauty,Website,54,1463.11,207.29,15,1,26.83,1.1
+2024-01-01,January,Jeddah,Sports,Mobile App,33,1850.42,450.73,9,0,56.63,1.1
+2024-01-01,January,Jeddah,Groceries,Mobile App,32,476.94,55.01,8,0,15.01,1.1
+2024-01-01,January,Dubai,Electronics,Mobile App,139,16664.13,1908.17,39,1,118.45,1.15
+2024-01-01,January,Dubai,Fashion,Website,80,3044.78,580.21,22,2,38.09,1.15
+2024-01-01,January,Dubai,Home,Social Media Ads,53,4212.58,882.37,16,0,78.77,1.15
+2024-01-01,January,Dubai,Beauty,Mobile App,46,1189.32,141.2,13,1,26.58,1.15
+2024-01-01,January,Dubai,Sports,Mobile App,44,2389.7,267.22,10,0,55.25,1.15
+2024-01-01,January,Dubai,Groceries,Social Media Ads,38,529.15,118.75,9,0,13.73,1.15
+2024-02-01,February,Cairo,Electronics,Mobile App,131,16124.86,3754.15,30,1,127.81,1.0
+2024-02-01,February,Cairo,Fashion,Social Media Ads,71,3338.24,622.93,20,0,45.94,1.0
+2024-02-01,February,Cairo,Home,Social Media Ads,58,4781.99,528.09,16,0,81.6,1.0
+2024-02-01,February,Cairo,Beauty,Mobile App,46,1340.37,179.86,11,0,28.73,1.0
+2024-02-01,February,Cairo,Sports,Website,38,2429.94,602.1,11,1,65.56,1.0
+2024-02-01,February,Cairo,Groceries,Mobile App,26,373.81,85.97,7,0,14.71,1.0
+2024-02-01,February,Riyadh,Electronics,Social Media Ads,137,17221.43,2440.21,37,5,122.66,1.05
+2024-02-01,February,Riyadh,Fashion,Website,73,3360.55,756.52,18,1,47.25,1.05
+2024-02-01,February,Riyadh,Home,Website,56,4494.17,698.97,14,1,78.57,1.05
+2024-02-01,February,Riyadh,Beauty,Social Media Ads,38,939.72,188.44,10,0,24.11,1.05
+2024-02-01,February,Riyadh,Sports,Social Media Ads,29,1624.5,390.69,8,0,55.76,1.05
+2024-02-01,February,Riyadh,Groceries,Social Media Ads,29,487.64,53.99,8,0,16.3,1.05
+2024-02-01,February,Jeddah,Electronics,Social Media Ads,143,19931.46,2504.8,44,2,124.94,1.1
+2024-02-01,February,Jeddah,Fashion,Mobile App,79,3544.64,484.63,20,0,43.87,1.1
+2024-02-01,February,Jeddah,Home,Social Media Ads,55,4922.44,772.42,14,1,94.81,1.1
+2024-02-01,February,Jeddah,Beauty,Website,53,1288.83,261.92,13,0,25.13,1.1
+2024-02-01,February,Jeddah,Sports,Website,39,2302.67,466.73,8,0,60.22,1.1
+2024-02-01,February,Jeddah,Groceries,Website,32,466.35,62.66,9,0,14.21,1.1
+2024-02-01,February,Dubai,Electronics,Mobile App,124,13316.53,2939.72,41,1,108.48,1.15
+2024-02-01,February,Dubai,Fashion,Website,108,4490.0,629.32,37,2,40.46,1.15
+2024-02-01,February,Dubai,Home,Social Media Ads,59,4086.28,968.33,17,1,70.28,1.15
+2024-02-01,February,Dubai,Beauty,Mobile App,49,1132.32,262.08,13,1,23.15,1.15
+2024-02-01,February,Dubai,Sports,Mobile App,43,2791.96,368.24,13,1,67.84,1.15
+2024-02-01,February,Dubai,Groceries,Social Media Ads,37,606.99,96.72,10,0,16.4,1.15
+2024-03-01,March,Cairo,Electronics,Mobile App,155,18487.64,3121.23,50,3,120.67,1.1
+2024-03-01,March,Cairo,Fashion,Social Media Ads,101,5009.09,605.82,29,1,52.68,1.1
+2024-03-01,March,Cairo,Home,Mobile App,69,5347.95,985.12,18,1,78.67,1.1
+2024-03-01,March,Cairo,Beauty,Mobile App,50,1258.78,266.93,15,0,25.71,1.1
+2024-03-01,March,Cairo,Sports,Mobile App,36,1982.83,465.32,10,0,56.02,1.1
+2024-03-01,March,Cairo,Groceries,Website,37,563.36,86.93,11,0,14.74,1.1
+2024-03-01,March,Riyadh,Electronics,Website,135,16925.23,2986.1,39,1,126.55,1.16
+2024-03-01,March,Riyadh,Fashion,Website,90,4154.37,886.41,22,1,45.35,1.16
+2024-03-01,March,Riyadh,Home,Website,70,6264.02,770.01,19,1,87.41,1.16
+2024-03-01,March,Riyadh,Beauty,Mobile App,48,1182.68,258.78,12,0,25.15,1.16
+2024-03-01,March,Riyadh,Sports,Mobile App,43,2620.07,496.4,12,0,61.98,1.16
+2024-03-01,March,Riyadh,Groceries,Mobile App,32,464.97,73.11,8,0,14.43,1.16
+2024-03-01,March,Jeddah,Electronics,Social Media Ads,142,18236.09,3270.96,39,2,122.98,1.21
+2024-03-01,March,Jeddah,Fashion,Website,71,3162.41,724.56,20,1,44.93,1.21
+2024-03-01,March,Jeddah,Home,Website,87,7582.16,1531.92,26,1,83.32,1.21
+2024-03-01,March,Jeddah,Beauty,Social Media Ads,39,992.92,200.82,10,0,25.45,1.21
+2024-03-01,March,Jeddah,Sports,Social Media Ads,42,2893.69,615.29,12,0,66.97,1.21
+2024-03-01,March,Jeddah,Groceries,Mobile App,32,550.48,83.14,6,0,17.63,1.21
+2024-03-01,March,Dubai,Electronics,Mobile App,159,18001.75,2974.16,49,2,112.71,1.26
+2024-03-01,March,Dubai,Fashion,Social Media Ads,111,4704.89,472.78,26,3,41.77,1.26
+2024-03-01,March,Dubai,Home,Mobile App,71,6128.56,1418.01,19,1,87.55,1.26
+2024-03-01,March,Dubai,Beauty,Website,63,1349.32,331.64,15,0,21.81,1.26
+2024-03-01,March,Dubai,Sports,Website,39,2399.08,422.6,9,0,60.58,1.26
+2024-03-01,March,Dubai,Groceries,Mobile App,38,572.06,131.9,11,0,15.4,1.26
+2024-04-01,April,Cairo,Electronics,Social Media Ads,147,21629.7,4893.73,44,3,139.78,1.1
+2024-04-01,April,Cairo,Fashion,Website,71,3009.32,575.82,22,1,41.53,1.1
+2024-04-01,April,Cairo,Home,Website,72,4895.92,764.19,23,0,72.43,1.1
+2024-04-01,April,Cairo,Beauty,Social Media Ads,47,1273.23,230.34,13,0,28.26,1.1
+2024-04-01,April,Cairo,Sports,Social Media Ads,41,2047.79,486.91,11,0,50.08,1.1
+2024-04-01,April,Cairo,Groceries,Website,42,584.77,86.91,10,0,14.38,1.1
+2024-04-01,April,Riyadh,Electronics,Mobile App,126,14134.27,1650.6,34,2,114.91,1.16
+2024-04-01,April,Riyadh,Fashion,Mobile App,87,3607.4,836.23,22,1,43.01,1.16
+2024-04-01,April,Riyadh,Home,Website,71,5591.57,759.99,18,1,79.28,1.16
+2024-04-01,April,Riyadh,Beauty,Website,52,1183.6,274.24,17,0,24.45,1.16
+2024-04-01,April,Riyadh,Sports,Mobile App,41,2597.6,293.13,11,0,62.77,1.16
+2024-04-01,April,Riyadh,Groceries,Social Media Ads,30,394.49,87.74,7,0,13.07,1.16
+2024-04-01,April,Jeddah,Electronics,Website,156,21809.17,4686.25,44,2,136.2,1.21
+2024-04-01,April,Jeddah,Fashion,Social Media Ads,89,4565.36,908.34,22,2,50.48,1.21
+2024-04-01,April,Jeddah,Home,Social Media Ads,68,6177.96,770.82,17,1,85.93,1.21
+2024-04-01,April,Jeddah,Beauty,Mobile App,39,904.9,208.91,11,0,23.82,1.21
+2024-04-01,April,Jeddah,Sports,Social Media Ads,49,2805.14,686.29,14,0,58.85,1.21
+2024-04-01,April,Jeddah,Groceries,Social Media Ads,38,587.51,125.31,9,0,15.12,1.21
+2024-04-01,April,Dubai,Electronics,Mobile App,152,16198.54,2108.61,43,2,112.67,1.26
+2024-04-01,April,Dubai,Fashion,Social Media Ads,83,3730.21,596.27,21,0,47.3,1.26
+2024-04-01,April,Dubai,Home,Mobile App,64,4712.36,930.6,19,1,74.49,1.26
+2024-04-01,April,Dubai,Beauty,Mobile App,54,1468.1,344.92,16,0,26.06,1.26
+2024-04-01,April,Dubai,Sports,Website,58,3518.31,415.69,16,0,61.78,1.26
+2024-04-01,April,Dubai,Groceries,Website,30,495.76,54.34,7,0,16.4,1.26
+2024-05-01,May,Cairo,Electronics,Website,125,15278.32,2876.09,38,1,123.79,1.0
+2024-05-01,May,Cairo,Fashion,Website,73,3556.28,669.53,16,0,49.32,1.0
+2024-05-01,May,Cairo,Home,Social Media Ads,52,4375.77,484.17,14,0,80.12,1.0
+2024-05-01,May,Cairo,Beauty,Website,35,797.87,86.83,10,1,22.04,1.0
+2024-05-01,May,Cairo,Sports,Mobile App,28,1717.05,404.9,8,0,60.87,1.0
+2024-05-01,May,Cairo,Groceries,Website,27,401.59,44.43,7,0,15.09,1.0
+2024-05-01,May,Riyadh,Electronics,Mobile App,116,13576.63,1924.78,35,2,115.73,1.05
+2024-05-01,May,Riyadh,Fashion,Website,72,3535.74,467.2,16,1,46.49,1.05
+2024-05-01,May,Riyadh,Home,Social Media Ads,48,4034.38,841.18,16,0,84.19,1.05
+2024-05-01,May,Riyadh,Beauty,Website,49,1262.69,235.41,16,1,25.22,1.05
+2024-05-01,May,Riyadh,Sports,Mobile App,36,2398.05,522.04,10,0,67.65,1.05
+2024-05-01,May,Riyadh,Groceries,Website,20,271.3,34.88,4,0,12.97,1.05
+2024-05-01,May,Jeddah,Electronics,Mobile App,127,16279.03,3237.04,34,3,127.9,1.1
+2024-05-01,May,Jeddah,Fashion,Mobile App,71,2987.87,488.63,14,0,44.07,1.1
+2024-05-01,May,Jeddah,Home,Website,62,4969.92,1140.97,16,1,78.52,1.1
+2024-05-01,May,Jeddah,Beauty,Social Media Ads,34,1026.92,206.42,9,0,30.15,1.1
+2024-05-01,May,Jeddah,Sports,Mobile App,40,2252.43,258.49,10,1,57.25,1.1
+2024-05-01,May,Jeddah,Groceries,Website,31,378.42,79.18,8,0,11.82,1.1
+2024-05-01,May,Dubai,Electronics,Website,143,14872.73,2042.0,44,3,106.49,1.15
+2024-05-01,May,Dubai,Fashion,Website,95,4368.83,788.32,23,1,47.6,1.15
+2024-05-01,May,Dubai,Home,Mobile App,68,5275.29,861.36,18,1,78.46,1.15
+2024-05-01,May,Dubai,Beauty,Website,45,1046.79,177.32,13,1,22.84,1.15
+2024-05-01,May,Dubai,Sports,Social Media Ads,47,3011.88,501.39,12,1,64.44,1.15
+2024-05-01,May,Dubai,Groceries,Social Media Ads,37,494.64,56.73,8,0,13.13,1.15
+2024-06-01,June,Cairo,Electronics,Website,110,13384.35,3344.65,30,2,122.03,0.85
+2024-06-01,June,Cairo,Fashion,Website,62,2828.11,693.88,17,1,45.41,0.85
+2024-06-01,June,Cairo,Home,Mobile App,38,2772.53,346.42,10,0,71.37,0.85
+2024-06-01,June,Cairo,Beauty,Mobile App,28,654.12,112.64,8,0,23.92,0.85
+2024-06-01,June,Cairo,Sports,Website,25,1646.52,387.54,7,0,64.94,0.85
+2024-06-01,June,Cairo,Groceries,Mobile App,24,420.42,65.94,6,0,17.0,0.85
+2024-06-01,June,Riyadh,Electronics,Mobile App,90,11002.42,1537.92,23,2,124.97,0.89
+2024-06-01,June,Riyadh,Fashion,Social Media Ads,72,2879.27,411.12,18,2,41.68,0.89
+2024-06-01,June,Riyadh,Home,Social Media Ads,54,4515.54,1099.97,14,0,83.16,0.89
+2024-06-01,June,Riyadh,Beauty,Mobile App,35,1051.16,209.48,9,0,30.12,0.89
+2024-06-01,June,Riyadh,Sports,Mobile App,27,1622.4,199.91,8,0,56.99,0.89
+2024-06-01,June,Riyadh,Groceries,Website,25,375.2,49.77,6,0,15.75,0.89
+2024-06-01,June,Jeddah,Electronics,Social Media Ads,126,14721.12,2751.04,37,2,121.71,0.94
+2024-06-01,June,Jeddah,Fashion,Mobile App,64,3114.32,339.91,18,0,48.0,0.94
+2024-06-01,June,Jeddah,Home,Social Media Ads,63,4952.38,537.7,15,1,81.74,0.94
+2024-06-01,June,Jeddah,Beauty,Social Media Ads,37,940.89,161.38,10,0,24.92,0.94
+2024-06-01,June,Jeddah,Sports,Social Media Ads,23,1319.58,163.12,7,0,57.91,0.94
+2024-06-01,June,Jeddah,Groceries,Website,29,422.97,47.38,9,0,14.78,0.94
+2024-06-01,June,Dubai,Electronics,Website,108,13589.75,1498.65,30,2,122.56,0.98
+2024-06-01,June,Dubai,Fashion,Website,73,3282.37,660.68,19,1,43.14,0.98
+2024-06-01,June,Dubai,Home,Social Media Ads,47,4168.74,669.36,11,0,90.11,0.98
+2024-06-01,June,Dubai,Beauty,Social Media Ads,26,583.97,79.96,7,0,22.99,0.98
+2024-06-01,June,Dubai,Sports,Website,40,2616.81,277.28,12,0,67.44,0.98
+2024-06-01,June,Dubai,Groceries,Social Media Ads,31,472.52,76.97,8,0,14.94,0.98
+2024-07-01,July,Cairo,Electronics,Mobile App,93,12259.62,2265.38,24,1,122.78,0.85
+2024-07-01,July,Cairo,Fashion,Website,61,2698.24,648.13,15,0,42.71,0.85
+2024-07-01,July,Cairo,Home,Mobile App,40,3116.88,624.81,13,1,76.47,0.85
+2024-07-01,July,Cairo,Beauty,Mobile App,44,1033.72,140.38,13,1,23.77,0.85
+2024-07-01,July,Cairo,Sports,Social Media Ads,28,1616.54,193.39,7,0,59.15,0.85
+2024-07-01,July,Cairo,Groceries,Mobile App,32,463.25,67.17,11,0,14.38,0.85
+2024-07-01,July,Riyadh,Electronics,Website,113,13437.03,3216.19,33,1,115.3,0.89
+2024-07-01,July,Riyadh,Fashion,Social Media Ads,72,3506.23,355.52,22,1,47.13,0.89
+2024-07-01,July,Riyadh,Home,Website,41,3713.74,927.57,11,0,88.85,0.89
+2024-07-01,July,Riyadh,Beauty,Website,31,828.89,92.0,8,0,27.41,0.89
+2024-07-01,July,Riyadh,Sports,Website,34,2074.17,364.81,10,1,60.92,0.89
+2024-07-01,July,Riyadh,Groceries,Website,31,456.51,109.56,8,0,14.63,0.89
+2024-07-01,July,Jeddah,Electronics,Mobile App,118,14932.25,3462.65,36,2,125.84,0.94
+2024-07-01,July,Jeddah,Fashion,Mobile App,66,2938.63,419.48,17,0,45.48,0.94
+2024-07-01,July,Jeddah,Home,Social Media Ads,55,4941.33,1112.1,13,1,90.02,0.94
+2024-07-01,July,Jeddah,Beauty,Social Media Ads,44,1121.57,163.05,12,0,25.88,0.94
+2024-07-01,July,Jeddah,Sports,Social Media Ads,46,2541.93,455.87,13,0,53.85,0.94
+2024-07-01,July,Jeddah,Groceries,Mobile App,26,433.35,96.45,7,0,17.22,0.94
+2024-07-01,July,Dubai,Electronics,Website,107,12724.75,3050.93,25,2,117.68,0.98
+2024-07-01,July,Dubai,Fashion,Website,99,4573.63,1101.51,28,1,44.7,0.98
+2024-07-01,July,Dubai,Home,Website,59,5001.64,698.58,16,1,83.65,0.98
+2024-07-01,July,Dubai,Beauty,Website,33,854.45,180.6,8,0,24.82,0.98
+2024-07-01,July,Dubai,Sports,Social Media Ads,23,1316.58,185.44,7,0,59.81,0.98
+2024-07-01,July,Dubai,Groceries,Mobile App,28,381.93,50.26,6,0,14.46,0.98
+2024-08-01,August,Cairo,Electronics,Social Media Ads,130,16791.83,2192.0,32,1,127.54,1.0
+2024-08-01,August,Cairo,Fashion,Social Media Ads,78,3387.27,772.08,21,0,44.99,1.0
+2024-08-01,August,Cairo,Home,Website,42,3206.63,555.64,10,0,81.33,1.0
+2024-08-01,August,Cairo,Beauty,Mobile App,49,1428.34,162.61,15,0,28.6,1.0
+2024-08-01,August,Cairo,Sports,Website,39,2305.68,517.4,12,0,60.29,1.0
+2024-08-01,August,Cairo,Groceries,Website,29,483.67,48.62,9,0,16.58,1.0
+2024-08-01,August,Riyadh,Electronics,Mobile App,141,15805.92,3091.12,41,2,113.75,1.05
+2024-08-01,August,Riyadh,Fashion,Mobile App,80,3823.7,475.05,22,0,44.91,1.05
+2024-08-01,August,Riyadh,Home,Mobile App,43,3498.25,639.31,11,1,83.93,1.05
+2024-08-01,August,Riyadh,Beauty,Website,50,1315.05,242.15,12,1,25.8,1.05
+2024-08-01,August,Riyadh,Sports,Social Media Ads,36,2267.95,252.39,11,0,61.08,1.05
+2024-08-01,August,Riyadh,Groceries,Social Media Ads,28,425.1,100.15,9,0,14.79,1.05
+2024-08-01,August,Jeddah,Electronics,Mobile App,139,16032.75,1689.92,36,2,113.99,1.1
+2024-08-01,August,Jeddah,Fashion,Website,75,3486.75,653.33,22,2,44.91,1.1
+2024-08-01,August,Jeddah,Home,Website,51,4222.35,694.44,12,1,87.35,1.1
+2024-08-01,August,Jeddah,Beauty,Website,41,996.71,145.76,11,0,24.06,1.1
+2024-08-01,August,Jeddah,Sports,Website,37,2361.36,554.54,12,0,64.78,1.1
+2024-08-01,August,Jeddah,Groceries,Social Media Ads,36,519.38,105.08,10,0,14.58,1.1
+2024-08-01,August,Dubai,Electronics,Social Media Ads,127,16614.2,1917.6,35,1,129.89,1.15
+2024-08-01,August,Dubai,Fashion,Mobile App,62,2957.04,687.87,18,0,47.62,1.15
+2024-08-01,August,Dubai,Home,Social Media Ads,43,3254.0,800.73,13,0,80.5,1.15
+2024-08-01,August,Dubai,Beauty,Website,49,1208.05,148.81,15,0,27.0,1.15
+2024-08-01,August,Dubai,Sports,Website,60,3657.06,839.99,15,1,62.94,1.15
+2024-08-01,August,Dubai,Groceries,Website,38,564.92,131.18,10,0,14.77,1.15
+2024-09-01,September,Cairo,Electronics,Mobile App,134,19138.24,2428.72,41,2,143.07,1.0
+2024-09-01,September,Cairo,Fashion,Mobile App,72,3288.82,714.85,20,1,47.3,1.0
+2024-09-01,September,Cairo,Home,Social Media Ads,64,5144.0,1133.4,21,0,79.59,1.0
+2024-09-01,September,Cairo,Beauty,Mobile App,39,983.54,217.96,11,0,24.51,1.0
+2024-09-01,September,Cairo,Sports,Social Media Ads,41,2500.48,309.76,11,0,58.57,1.0
+2024-09-01,September,Cairo,Groceries,Website,28,366.49,42.59,7,0,13.68,1.0
+2024-09-01,September,Riyadh,Electronics,Website,116,12684.62,2902.1,38,2,113.87,1.05
+2024-09-01,September,Riyadh,Fashion,Mobile App,76,3449.88,448.26,15,2,42.52,1.05
+2024-09-01,September,Riyadh,Home,Website,59,3988.39,608.03,18,0,71.11,1.05
+2024-09-01,September,Riyadh,Beauty,Social Media Ads,61,1638.49,218.64,18,0,26.19,1.05
+2024-09-01,September,Riyadh,Sports,Mobile App,34,2053.14,264.79,7,0,60.5,1.05
+2024-09-01,September,Riyadh,Groceries,Website,37,494.05,70.05,11,0,13.81,1.05
+2024-09-01,September,Jeddah,Electronics,Mobile App,129,14656.81,3591.41,38,2,110.5,1.1
+2024-09-01,September,Jeddah,Fashion,Social Media Ads,88,3833.62,585.29,20,1,45.38,1.1
+2024-09-01,September,Jeddah,Home,Social Media Ads,68,5521.18,883.12,19,0,79.87,1.1
+2024-09-01,September,Jeddah,Beauty,Website,41,1051.71,157.41,9,1,25.24,1.1
+2024-09-01,September,Jeddah,Sports,Mobile App,44,2327.9,273.07,11,0,54.03,1.1
+2024-09-01,September,Jeddah,Groceries,Mobile App,35,500.81,63.5,8,0,14.19,1.1
+2024-09-01,September,Dubai,Electronics,Social Media Ads,127,16210.93,1714.12,35,1,126.08,1.15
+2024-09-01,September,Dubai,Fashion,Social Media Ads,78,4031.38,665.92,21,2,48.47,1.15
+2024-09-01,September,Dubai,Home,Mobile App,61,4791.01,1044.27,18,1,74.86,1.15
+2024-09-01,September,Dubai,Beauty,Social Media Ads,38,915.49,174.8,9,0,24.24,1.15
+2024-09-01,September,Dubai,Sports,Social Media Ads,29,1588.95,186.46,8,0,56.88,1.15
+2024-09-01,September,Dubai,Groceries,Website,35,552.48,71.0,11,0,15.4,1.15
+2024-10-01,October,Cairo,Electronics,Website,119,16394.67,3382.51,35,1,136.06,1.0
+2024-10-01,October,Cairo,Fashion,Social Media Ads,67,3058.11,544.31,18,1,46.94,1.0
+2024-10-01,October,Cairo,Home,Social Media Ads,58,4528.75,919.47,14,0,75.29,1.0
+2024-10-01,October,Cairo,Beauty,Website,43,1184.5,249.4,12,0,27.43,1.0
+2024-10-01,October,Cairo,Sports,Website,41,2474.87,382.7,10,0,60.64,1.0
+2024-10-01,October,Cairo,Groceries,Mobile App,28,363.86,88.17,8,0,12.8,1.0
+2024-10-01,October,Riyadh,Electronics,Social Media Ads,116,14263.02,2759.51,32,1,119.94,1.05
+2024-10-01,October,Riyadh,Fashion,Social Media Ads,90,4310.04,979.25,23,1,48.31,1.05
+2024-10-01,October,Riyadh,Home,Social Media Ads,49,3777.49,887.74,13,0,78.88,1.05
+2024-10-01,October,Riyadh,Beauty,Mobile App,57,1570.74,229.94,18,0,27.17,1.05
+2024-10-01,October,Riyadh,Sports,Social Media Ads,35,2019.04,300.69,9,0,60.05,1.05
+2024-10-01,October,Riyadh,Groceries,Website,47,719.55,103.87,13,1,15.07,1.05
+2024-10-01,October,Jeddah,Electronics,Social Media Ads,137,15138.54,1949.48,44,3,110.98,1.1
+2024-10-01,October,Jeddah,Fashion,Social Media Ads,64,2957.31,712.87,16,0,44.23,1.1
+2024-10-01,October,Jeddah,Home,Website,68,5298.31,1124.41,20,1,77.52,1.1
+2024-10-01,October,Jeddah,Beauty,Mobile App,46,940.59,180.9,11,1,19.89,1.1
+2024-10-01,October,Jeddah,Sports,Website,44,2817.13,453.31,11,1,62.6,1.1
+2024-10-01,October,Jeddah,Groceries,Website,34,493.29,71.81,9,0,14.34,1.1
+2024-10-01,October,Dubai,Electronics,Social Media Ads,136,15995.42,2630.98,37,2,121.15,1.15
+2024-10-01,October,Dubai,Fashion,Mobile App,93,3929.06,750.45,22,2,43.4,1.15
+2024-10-01,October,Dubai,Home,Mobile App,70,6220.09,1055.85,18,1,89.42,1.15
+2024-10-01,October,Dubai,Beauty,Social Media Ads,48,1246.76,251.03,14,0,26.36,1.15
+2024-10-01,October,Dubai,Sports,Social Media Ads,28,1941.9,332.02,8,0,66.25,1.15
+2024-10-01,October,Dubai,Groceries,Website,20,349.83,43.89,5,0,17.42,1.15
+2024-11-01,November,Cairo,Electronics,Social Media Ads,156,16216.06,2311.89,38,2,107.07,1.35
+2024-11-01,November,Cairo,Fashion,Mobile App,94,4731.27,922.32,29,1,49.27,1.35
+2024-11-01,November,Cairo,Home,Website,65,4816.07,549.07,20,1,70.9,1.35
+2024-11-01,November,Cairo,Beauty,Website,65,1793.54,360.36,18,0,25.91,1.35
+2024-11-01,November,Cairo,Sports,Website,55,3760.13,830.93,14,1,67.34,1.35
+2024-11-01,November,Cairo,Groceries,Website,39,504.62,52.31,10,0,13.75,1.35
+2024-11-01,November,Riyadh,Electronics,Social Media Ads,162,20405.33,5052.16,44,2,122.95,1.42
+2024-11-01,November,Riyadh,Fashion,Website,118,5454.73,1240.74,35,2,44.1,1.42
+2024-11-01,November,Riyadh,Home,Social Media Ads,56,4368.14,735.21,16,0,81.16,1.42
+2024-11-01,November,Riyadh,Beauty,Social Media Ads,61,1486.03,276.92,17,1,23.94,1.42
+2024-11-01,November,Riyadh,Sports,Mobile App,46,3032.94,620.09,13,0,61.16,1.42
+2024-11-01,November,Riyadh,Groceries,Website,35,590.95,94.52,9,0,16.55,1.42
+2024-11-01,November,Jeddah,Electronics,Website,180,20961.1,4158.86,43,2,114.43,1.49
+2024-11-01,November,Jeddah,Fashion,Website,113,5470.1,1279.45,28,1,49.31,1.49
+2024-11-01,November,Jeddah,Home,Website,76,6097.27,1321.66,22,1,79.23,1.49
+2024-11-01,November,Jeddah,Beauty,Social Media Ads,75,2108.17,266.44,17,2,28.45,1.49
+2024-11-01,November,Jeddah,Sports,Website,59,3225.85,573.21,15,2,52.68,1.49
+2024-11-01,November,Jeddah,Groceries,Website,46,662.37,121.62,15,1,14.32,1.49
+2024-11-01,November,Dubai,Electronics,Mobile App,177,23388.4,3940.23,45,1,129.83,1.55
+2024-11-01,November,Dubai,Fashion,Social Media Ads,126,5517.09,1104.17,35,3,44.39,1.55
+2024-11-01,November,Dubai,Home,Mobile App,80,5781.41,1094.52,22,0,72.69,1.55
+2024-11-01,November,Dubai,Beauty,Social Media Ads,70,1999.23,383.65,22,1,28.03,1.55
+2024-11-01,November,Dubai,Sports,Mobile App,63,3604.51,842.75,21,1,58.91,1.55
+2024-11-01,November,Dubai,Groceries,Social Media Ads,43,598.82,134.49,12,1,14.41,1.55
+2024-12-01,December,Cairo,Electronics,Website,153,18750.9,3129.28,45,2,123.1,1.35
+2024-12-01,December,Cairo,Fashion,Mobile App,88,3280.22,693.93,24,2,40.79,1.35
+2024-12-01,December,Cairo,Home,Website,81,7240.36,1212.84,20,1,90.63,1.35
+2024-12-01,December,Cairo,Beauty,Mobile App,76,2090.5,472.41,21,0,26.53,1.35
+2024-12-01,December,Cairo,Sports,Social Media Ads,58,3155.55,678.04,17,1,55.79,1.35
+2024-12-01,December,Cairo,Groceries,Website,28,466.3,80.53,5,0,16.79,1.35
+2024-12-01,December,Riyadh,Electronics,Website,196,24695.52,3486.75,45,2,127.07,1.42
+2024-12-01,December,Riyadh,Fashion,Website,96,4421.67,915.43,28,0,47.86,1.42
+2024-12-01,December,Riyadh,Home,Mobile App,65,4686.11,659.6,16,1,69.66,1.42
+2024-12-01,December,Riyadh,Beauty,Website,61,1602.79,374.98,17,1,25.4,1.42
+2024-12-01,December,Riyadh,Sports,Website,51,3069.18,370.62,12,1,60.85,1.42
+2024-12-01,December,Riyadh,Groceries,Website,42,669.52,105.42,12,1,15.52,1.42
+2024-12-01,December,Jeddah,Electronics,Website,191,22456.79,4625.26,49,3,120.2,1.49
+2024-12-01,December,Jeddah,Fashion,Mobile App,120,5042.73,818.08,34,1,43.26,1.49
+2024-12-01,December,Jeddah,Home,Mobile App,80,5957.28,1080.6,21,3,78.13,1.49
+2024-12-01,December,Jeddah,Beauty,Mobile App,72,1801.63,196.99,20,1,25.6,1.49
+2024-12-01,December,Jeddah,Sports,Social Media Ads,54,3408.42,539.97,14,1,64.41,1.49
+2024-12-01,December,Jeddah,Groceries,Website,37,572.23,138.43,9,0,15.08,1.49
+2024-12-01,December,Dubai,Electronics,Social Media Ads,192,22152.14,5061.98,65,3,116.79,1.55
+2024-12-01,December,Dubai,Fashion,Website,121,5687.04,893.19,33,2,45.09,1.55
+2024-12-01,December,Dubai,Home,Mobile App,69,6513.97,1572.55,20,0,87.6,1.55
+2024-12-01,December,Dubai,Beauty,Mobile App,72,1896.6,404.02,23,0,25.34,1.55
+2024-12-01,December,Dubai,Sports,Social Media Ads,55,2690.14,486.2,13,0,49.82,1.55
+2024-12-01,December,Dubai,Groceries,Social Media Ads,36,585.81,106.57,9,0,16.01,1.55
